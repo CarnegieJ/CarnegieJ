@@ -1,4 +1,6 @@
 ## Hi there 👋
+I thrive at the command line, automate the mundane, and think several steps ahead — whether it’s in data models, home security, cybersecurity, smart infrastructure, or financial independence.
+In short: I am the CTO of my life — building apps, running ops, securing systems, and keeping legacy (and family) running strong.
 ### Certifications
 
 ![GitHub Copilot](img/github-copilot.png)[VALIDATE SKILLS IN THE FOLLOWING AREAS:](https://www.credly.com/badges/ab86e257-bff4-4de6-af57-48bb99875471/public_url)
