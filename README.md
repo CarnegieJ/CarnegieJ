@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### Certifications
 
-![GitHub Copilot](img/github-copilot.png)[VALIDATE SKILLS IN THE FOLLOWING AREAS:](https://www.credly.com/badges/ab86e257-bff4-4de6-af57-48bb99875471/public_url)
+![GitHub Copilot](img/github-copilot.png)
+[VALIDATE SKILLS IN THE FOLLOWING AREAS:](https://www.credly.com/badges/ab86e257-bff4-4de6-af57-48bb99875471/public_url)
   - Responsible AI
   - GitHub Copilot plans and features
   - How GitHub Copilot works and handles data
