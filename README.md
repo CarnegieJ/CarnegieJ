@@ -20,7 +20,7 @@ In short: I am the CTO of my life — building apps, running ops, securing syste
     </td>
   </tr>
   <tr>
-      <a href="https://www.credly.com/badges/ab86e257-bff4-4de6-af57-48bb99875471/public_url">View</a>
+      <a href="https://www.credly.com/badges/ab86e257-bff4-4de6-af57-48bb99875471/public_url">View my verified credential</a>
   </tr>
 </table>
   
