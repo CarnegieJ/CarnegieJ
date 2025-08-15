@@ -26,9 +26,11 @@ In short: I am the CTO of my life — building apps, running ops, securing syste
   
 ---
 
-- 🔭 I’m currently working on [AI Innovation Challenge June 2025](https://womenincloud.com/aichallenge/)
-- 🌱 I’m currently learning [Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) and [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry)
-- 👯 I’m looking to collaborate on Agentic Solutions for Non-profits
+- 👯 Ask me about Agentic Solutions
+- 🌱 I’m mastering [Microsoft Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/) and [Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry)
+- 💬 I’m currently seeking DevSecOps opportunities
+- 🔭 Recently completed [AI Innovation Challenge June 2025](https://womenincloud.com/aichallenge/)
+- ⚡ Fun fact: my first computer was the Apple ][+ 48K and I still have it
 
 <!--
 **CarnegieJ/CarnegieJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
